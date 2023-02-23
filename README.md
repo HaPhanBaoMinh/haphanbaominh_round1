@@ -10,7 +10,7 @@
 
 ## Tech
 
-**Client:** React, Tailwind, FirebaseFirebase
+**Client:** React, Tailwind, Firebase
 
 ## Demo
 
